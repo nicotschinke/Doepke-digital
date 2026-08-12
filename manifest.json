@@ -1,8 +1,10 @@
 {
   "name": "Doepke digital",
   "short_name": "DoepkeApp",
-  "start_url": ".",
-  "scope": ".",
+ 
+  "start_url": "/Doepke-digital/",
+  "scope": "/Doepke-digital/"
+
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
